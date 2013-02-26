@@ -4,7 +4,7 @@ Pre-Calculus Quiz Checker
 How to Install the Programs
 ---------------------------
 1. Download and install [TI Connect](http://education.ti.com/en/us/products/computer_software/connectivity-software/ti-connect-software/features/features-summary)
-2. Download the selection of programs you want for your specific calculator.
+2. Download the menu programs (MQ_T_) and selection of programs you want for your specific calculator.
 3. Figure the rest out yourself.
 
 Quiz Structure
